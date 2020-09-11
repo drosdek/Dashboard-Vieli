@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "vieli-app"
+    }
+  },
+  "defaultProject": "vieli-app",
+  "cli": {
+    "analytics": "86258c2b-b6cc-49d8-8bdd-1b45a8de8b3c"
+  }
 }
